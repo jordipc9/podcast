@@ -20,7 +20,7 @@
         <itunes:author>Apple La Maquinista</itunes:author>
         <itunes:subtitle>Disfruta del Daily Download en formato Podcast.</itunes:subtitle>
         <itunes:summary></itunes:summary>
-        <itunes:image href="" />
+        <itunes:image href="https://raw.githubusercontent.com/jordipc9/podcast/main/ddpodcastcover.jpeg" />
         <enclosure url="" length="" type="audio/mpeg"/>
         <guid></guid>
         <pubDate>Thu Dec 10 2020 17:13:09 GMT+0100 (CET)</pubDate>
