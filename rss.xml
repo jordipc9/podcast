@@ -12,7 +12,7 @@
       <itunes:name></itunes:name>
       <itunes:email></itunes:email>
     </itunes:owner>
-    <itunes:image href="" />
+    <itunes:image href="https://raw.githubusercontent.com/jordipc9/podcast/main/ddpodcastcover.jpeg" />
     <itunes:category text="Professional"/>
     
       <item>
