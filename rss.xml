@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Daily Download</title>
+    <link>https://www.apple.com/es/lamaquinista</link>
+    <language>es-es</language>
+    <copyright></copyright>
+    <itunes:subtitle>Disfruta de los Daily Download en formato Podcast.</itunes:subtitle>
+    <itunes:author>Apple La Maquinista</itunes:author>
+    <itunes:summary>Este contenido es de uso interno de Apple. El contenido y las opiniones expresadas no tienen porqué coincidir con la política de la empresa.</itunes:summary>  
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="" />
+    <itunes:category text="Professional"/>
+    
+      <item>
+        <title>3 minutos</title>
+        <itunes:author>Apple La Maquinista</itunes:author>
+        <itunes:subtitle>Disfruta del Daily Download en formato Podcast.</itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="" length="" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate>Thu Dec 10 2020 17:13:09 GMT+0100 (CET)</pubDate>
+        <itunes:duration></itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
